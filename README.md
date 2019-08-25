@@ -11,5 +11,7 @@ The data for this project came from goodreads.com. A total of about 2000 quotes 
 <ul>Lemmatize</ul>
 <ul>Label Encode</ul>
 
-<h2>Initial Political Party Classisification Accuracies</h2>
-<ul>Naive Bayes: </ul>
+<h2>Initial Political Party Classisification Test Accuracies</h2>
+<ul>Naive Bayes: 79.0%</ul>
+<ul>Logistic Regression: 86.4%</ul>
+<ul>XGBoost: 79.6%</ul>
