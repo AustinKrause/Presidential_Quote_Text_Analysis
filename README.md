@@ -4,3 +4,9 @@ Let's see if we can train a model to be able to predict which president said wha
 
 <h2>Data</h2>
 The data for this project came from goodreads.com. A total of about 2000 quotes were scraped along with the president who said the quote. 
+
+<h2>Text Preprocessing</h2>
+<ul>Tokenize</ul>
+<ul>Remove Stop Words</ul>
+<ul>Lemmatize</ul>
+<ul>Label Encode</ul>
