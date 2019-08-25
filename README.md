@@ -10,3 +10,6 @@ The data for this project came from goodreads.com. A total of about 2000 quotes 
 <ul>Remove Stop Words</ul>
 <ul>Lemmatize</ul>
 <ul>Label Encode</ul>
+
+<h2>Initial Political Party Classisification Accuracies</h2>
+<ul>Naive Bayes: </ul>
