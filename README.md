@@ -3,7 +3,7 @@ A brief NLP project using various past president's quotes for classifying text.<
 Let's see if we can train a model to be able to predict which president said what.<br>
 
 <h2>Data</h2>
-The data for this project came from goodreads.com. A total of about 2000 quotes were scraped along with the president who said the quote. After cleaning the data, I will use machine learning models to attempt to classify quotes to their speakers.
+The data for this project came from goodreads.com. A total of about 2000 quotes were scraped using BeautifulSoup4 along with the president who said the quote. After cleaning the data, I will use machine learning models to attempt to classify quotes to their speakers. 
 
 <h2>Text Preprocessing</h2>
 <ul>Tokenize</ul>
